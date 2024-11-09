@@ -52,8 +52,7 @@ Key findings from this analysis will provide actionable insights into:
 - **Database**: SQL or NoSQL database for structured data storage
 - **Visualization**: Matplotlib, Seaborn for insights and trend visualization
 
-## How to Run the Project
-1. Clone this repository:
+## Clone this repository:
    ```bash
    git clone https://github.com/Suryanshu-Verma/Restaurant-Success-Analysis.git
    ```
