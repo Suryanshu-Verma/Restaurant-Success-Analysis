@@ -1,3 +1,4 @@
+![Restaurant Success Analysis](Outputs/outputs/Cover.jpg)
 # Restaurant Success Analysis
 
 ## Project Overview
