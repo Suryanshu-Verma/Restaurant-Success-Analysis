@@ -43,6 +43,7 @@ Key findings from this analysis will provide actionable insights into:
 - The types of engagement that most strongly influence restaurant success.
 - The role of positive sentiment in achieving higher ratings and more reviews.
 - Time-based patterns in engagement that contribute to long-term growth.
+- To review the recommendations and insights, please refer to the presentation located in the "PPT" folder in the repository.
 
 ## Tools and Libraries
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
