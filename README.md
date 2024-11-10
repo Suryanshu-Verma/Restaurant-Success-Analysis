@@ -1,5 +1,5 @@
 ![Restaurant Success Analysis](Outputs/outputs/Cover.jpg)
-# Restaurant Success Analysis
+# Restaurant Success Analysis Using MySQL, SQLAlchemy
 
 ## Project Overview
 In the highly competitive restaurant industry, understanding the impact of user engagement on business success is critical. This project aims to identify and quantify correlations between user engagement metrics—such as reviews, tips, and check-ins—and business performance indicators, including review counts and average ratings. By analyzing the Yelp dataset, this project provides data-driven insights that can guide strategic decision-making to enhance restaurant performance and foster sustainable growth.
